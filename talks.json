@@ -1,0 +1,58 @@
+[
+  {
+    "time": "10:00 - 11:00",
+    "title": "The Future of AI: Trends and Predictions",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning"],
+    "duration": "1 hour",
+    "description": "A deep dive into the future of Artificial Intelligence, exploring emerging trends, potential breakthroughs, and the ethical considerations that come with them."
+  },
+  {
+    "time": "11:10 - 12:10",
+    "title": "Building Scalable and Resilient Microservices",
+    "speakers": ["John Smith", "Jane Doe"],
+    "category": ["Microservices", "Architecture"],
+    "duration": "1 hour",
+    "description": "Learn the best practices for designing, building, and deploying microservices that are both scalable and resilient, with a focus on real-world case studies."
+  },
+  {
+    "time": "12:20 - 13:20",
+    "title": "The Power of Serverless: A Practical Guide",
+    "speakers": ["Maria Garcia"],
+    "category": ["Serverless", "Cloud Computing"],
+    "duration": "1 hour",
+    "description": "This talk will provide a practical guide to serverless computing, showcasing its benefits, use cases, and how to get started with building your own serverless applications."
+  },
+  {
+    "time": "13:20 - 14:20",
+    "title": "Lunch Break",
+    "speakers": [],
+    "category": [],
+    "duration": "1 hour",
+    "description": "Enjoy a delicious lunch and network with other attendees."
+  },
+  {
+    "time": "14:20 - 15:20",
+    "title": "Cybersecurity in the Age of IoT",
+    "speakers": ["David Chen"],
+    "category": ["Cybersecurity", "IoT"],
+    "duration": "1 hour",
+    "description": "As the number of IoT devices continues to grow, so do the security risks. This talk will explore the unique cybersecurity challenges posed by the Internet of Things and how to address them."
+  },
+  {
+    "time": "15:30 - 16:30",
+    "title": "Mastering frontend development with modern Javascript",
+    "speakers": ["Emily White", "Chris Green"],
+    "category": ["Frontend", "JavaScript"],
+    "duration": "1 hour",
+    "description": "A comprehensive overview of the modern JavaScript ecosystem, including the latest frameworks, tools, and techniques for building high-quality user interfaces."
+  },
+  {
+    "time": "16:40 - 17:40",
+    "title": "Quantum Computing: From Theory to Reality",
+    "speakers": ["Dr. Kenji Tanaka"],
+    "category": ["Quantum Computing", "Physics"],
+    "duration": "1 hour",
+    "description": "Quantum computing is poised to revolutionize the world of computation. This talk will demystify the principles of quantum mechanics and explore the current state of quantum hardware and software."
+  }
+]
